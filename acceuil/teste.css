@@ -1,0 +1,7 @@
+.section{
+    background-color: blueviolet;
+    display: flex;
+}
+.section .avec{
+    display: flex;
+}
